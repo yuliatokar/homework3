@@ -1,0 +1,68 @@
+body{
+    font-family: Quicksand, sans-serif;
+    font-size: 18px;
+}
+
+.header{
+    text-align: center;
+    background-color: rgb(114, 25, 25);
+    color: white;
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+
+.sunset{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.cars{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.cars-1{
+    border: 2px solid black;
+    border-style: dashed;
+}
+
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+    height: 25px;
+    padding-top: 5px;
+}
+
+.container{
+    width: 100%;
+    max-width: 712px;
+    padding-left: 300px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.italic_bold{
+    font-weight: bold;
+    font-style: italic;
+    color: blue;
+}
+
+b{
+    font-weight: bold;
+}
+
+.blue{
+    color: blue;
+}
+
+h1{
+    height: 25px;
+    padding-top: 5px;
+}
+
